@@ -12,7 +12,7 @@
 	<artifactId>flowershop</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>flowerShop</name>
-	<description>Demo SpringTool Suite Project</description>
+	<description> SpringTool Suite Project</description>
 	<properties>
 		<java.version>16</java.version>
 	</properties>
