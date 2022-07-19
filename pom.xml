@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.noppadon.flowershop</groupId>
 	<artifactId>flowershop</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.2-SNAPSHOT</version>
 	<name>flowerShop</name>
 	<description> SpringTool Suite Project</description>
 	<properties>
